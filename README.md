@@ -1,2 +1,2 @@
 # zen-garden
-practicing simple git for bootcamp
+practicing simple CSS editing for bootcamp
